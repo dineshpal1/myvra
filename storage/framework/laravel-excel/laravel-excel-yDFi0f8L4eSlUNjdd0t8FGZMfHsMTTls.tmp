@@ -1,0 +1,3 @@
+Item_Code,Item_Name,Brand,Class,Description,Pack Per Case,Pack Size,"Unit of Measure [Ea, Grams, oz(weight), Lbs, KG, ml, oz(volume), Liter,  Gallon(US) ]",CatchWeight
+VR1,Test 1 Prodeuct Name,Test Brand1,Grocery,Test Description,test,1,Grams,Y
+VR2,Test 2 Product Name1,Test Brand2,Frozen,Test Description,test,2,oz(weight),

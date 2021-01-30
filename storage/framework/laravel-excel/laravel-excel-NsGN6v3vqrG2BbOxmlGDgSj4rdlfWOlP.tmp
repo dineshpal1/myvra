@@ -1,0 +1,3 @@
+Item_Code,Item_Name,Item_price,Vendor,Brand,Class,Description,Pack Per Case,Pack Size,Unit_of_Measure,Catch_Weight
+VR1,Test 1 Prodeuct Name,122,New Vendor,Test Brand1,Grocery,Test Description,test,1,Grams,Yes
+VR2,Test 2 Product Name1,99,final,Test Brand2,Frozen,Test Description,test,2,oz(weight),
